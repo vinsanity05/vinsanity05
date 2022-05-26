@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **Chroviver3@gmail.com**
 
-- 😄 Pronouns: He/Him
-
 - ⚡ Fun fact **I like to watch disney films and Anime.**
 
 <h3 align="left">Connect with me:</h3>
