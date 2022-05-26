@@ -1,4 +1,4 @@
-<img width="1000" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=What's%20Up?&animation=twinkling&fontSize=40">
+<img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=What's%20Up?&animation=twinkling&fontSize=40">
 </p>
 <h1 align="center">Hi 👋, I'm Vince Verdadero</h1>
 <h3 align="center">I am currently a final/third-year student at the University of the West of England.</h3>
