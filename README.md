@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to watch disney films and Anime. 
 
-These are the modules that i did throughout the Computer Science degree at University of the West of England:
+These are the modules that I did throughout the Computer Science degree at University of the West of England:
 
 **1st year:**
 
