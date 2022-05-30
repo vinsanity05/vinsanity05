@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently **seeking a job on becoming a mobile developer**
 
-- 🌱 I’m currently learning **more on Swift and android development**
+- 🌱 I’m currently learning **Flutter**
 
 - 🤝 I’m looking for **help to find a gradudate job relating to mobile development.**
 
