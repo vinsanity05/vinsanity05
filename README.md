@@ -8,9 +8,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="400" />
 
-- 🔭 I’m currently **seeking a job on becoming a mobile developer**
+- 🔭 I’m currently **seeking a job on becoming a mobile developer.**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter.**
 
 - 🤝 I’m looking for **help to find a gradudate job relating to mobile development.**
 
