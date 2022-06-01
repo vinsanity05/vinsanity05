@@ -1,6 +1,6 @@
 <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=What's%20Up?&animation=twinkling&fontSize=40">
 </p>
-<h1 align="center">Hi I'm Vince Verdadero! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi I'm Vince Verdadero! <img src="https://user-images.githubusercontent.com/60824509/171394187-96e2d510-4e85-436d-b2c3-7429fc940775.gif" width="30px"></h1>
 
 <h3 align="center">I am currently a final/third-year student at the University of the West of England.</h3>
 
