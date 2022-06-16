@@ -2,7 +2,7 @@
 </p>
 <h1 align="center">Hi I'm Vince Verdadero! <img src="https://user-images.githubusercontent.com/60824509/171394187-96e2d510-4e85-436d-b2c3-7429fc940775.gif" width="30px"></h1>
 
-<h3 align="center">I am currently a final/third-year student at the University of the West of England.</h3>
+<h3 align="center">I am currently a Computer Science graduate at the University of the West of England.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinsanity05&label=Profile%20views&color=0e75b6&style=flat" alt="vinsanity05" /> </p>
 
