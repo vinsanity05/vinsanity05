@@ -8,11 +8,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="400" />
 
-- 🔭 I’m currently **seeking a job on becoming a mobile developer.**
+- 🔭 I’m currently **seeking a job on becoming a mobile developer / software tester.**
 
 - 🌱 I’m currently learning **Flutter.**
 
-- 🤝 I’m looking for **help to find a gradudate job relating to mobile development.**
+- 🤝 I’m looking for **help to find a graduate job relating to mobile development.**
 
 - 📫 How to reach me **Chroviver3@gmail.com**
 
