@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinsanity05&label=Profile%20views&color=0e75b6&style=flat" alt="vinsanity05" /> </p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="550" height="350" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="315" height="250" />
 
 - 🔭 I’m currently **seeking a job on becoming a mobile developer / software tester.**
 
-- 🌱 I’m currently learning **The Odin Project.**
+- 🌱 I’m currently learning **Google UX design and Meta iOS coursera course.**
 
 - 🤝 I’m looking for **help to find a graduate job relating to mobile app development.**
 
