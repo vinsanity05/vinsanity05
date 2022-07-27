@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently **seeking a job on becoming a mobile developer / software tester.**
 
-- 🌱 I’m currently learning **Google UX design and Meta iOS coursera course.**
+- 🌱 I’m currently learning **an iOS developer course.**
 
 - 🤝 I’m looking for **help to find a graduate job relating to mobile app development.**
 
