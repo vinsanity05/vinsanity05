@@ -8,11 +8,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="315" height="250" />
 
-- 🔭 I’m currently **seeking a job on becoming a mobile developer / UX designer.**
+- 🔭 I’m currently **seeking a job on becoming a mobile developer / UX designer / Tech support.**
 
-- 🌱 I’m currently learning **Coursera Meta iOS developer course and Google UX certificate course.**
+- 🌱 I’m currently learning **Coursera Google IT support certificate course.**
 
-- 🤝 I’m looking for **help to find a graduate job relating to mobile app development / ux designer role.**
+- 🤝 I’m looking for **help to find a graduate job relating to mobile app development / ux designer / Tech support role.**
 
 - 📫 How to reach me **Chroviver3@gmail.com**
 
